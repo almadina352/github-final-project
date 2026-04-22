@@ -1,7 +1,7 @@
 # Introduction to Git and GitHub
 This project is part of the IBM DevOps and Software Engineering Professional Certificate.
 
-## Simple Interest Calculator
+## Simple Interest Calculator test
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
